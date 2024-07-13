@@ -1,2 +1,2 @@
 # QT
-Simple Apps and Widgets created using QT, C++
+Apps and Widgets created using QT, C++
